@@ -60,11 +60,11 @@
                  <version>2.0</version>
                  <configuration>
                   <deploymentType>arm</deploymentType>
-                  <username>mmandli</username>
+                  <username>meenamandli</username>
                   <password>India@123</password>
-                  <target>Jenkins</target>
+                  <target>clusterMulti</target>
                     <!-- One of: server, serverGroup, cluster: -->
-                     <targetType>Jenkins</targetType>
+                     <targetType>cluster</targetType>
                      <environment>Production</environment>
                       </configuration>
                        <executions>
